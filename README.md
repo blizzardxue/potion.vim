@@ -1,1 +1,3 @@
-Vim plugin for [potion](http://fogus.github.com/potion/).
+Vim plugin for [potion](https://github.com/perl11/potion.git)
+
+blizzard fork from tapichu
